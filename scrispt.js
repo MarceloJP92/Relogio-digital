@@ -49,7 +49,7 @@ for(var i = 1; i <61; i++){
 }
 
 
-secDots.innerHTML = secondsDots +'<b> '+ amPm + '</b>' + '<h2>' + zero(seconds) +'<br><span>Segundos</span></h2>';
+secDots.innerHTML = secondsDots + '<b>' + amPm + '</b>' + '<h2>' + zero(seconds) +'<br><span>Segundos</span></h2>';
 minDots.innerHTML = minutDots + '<h2>'+ zero(minutes) +'<br><span>Minutos</span></h2>';
 hrDots .innerHTML = hoursDots+'<h2>' + zero(hours) +'<br><span>Horas</span></h2>';
 
