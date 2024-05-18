@@ -1,1 +1,1 @@
-https://github.com/MarceloJP92/Relogio-digital
+https://marcelojp92.github.io/Relogio-digital/
