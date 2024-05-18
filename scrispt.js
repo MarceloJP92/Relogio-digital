@@ -62,6 +62,6 @@ function zero(number){
   return number;
 }
 
-setInterval(clock,1000);
+setInterval(clock,);
 
 
